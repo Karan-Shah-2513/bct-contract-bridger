@@ -1,0 +1,19 @@
+version: '3'
+
+services:
+  contract-bridgers:
+    build:
+      context: ./contract-bridger
+      dockerfile: Dockerfile
+    image: contract-bridger
+    container_name: server
+    ports:
+      - "8080:8080"
+  interface:
+    build:
+      context: ./interface
+      dockerfile: Dockerfile
+    image: interface
+    container_name: client
+    ports:
+      - "3000:3000"
