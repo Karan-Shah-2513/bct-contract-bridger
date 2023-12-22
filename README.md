@@ -34,6 +34,15 @@ To get a local copy up and running, follow these steps:
 
 Now, you can access the `contract-bridgers` service at `http://localhost:8080` and the `interface` service at `http://localhost:3000`.
 
+## Screenshots
+
+![ss 0](https://raw.githubusercontent.com/Karan-Shah-2513/bct-contract-bridger/main/screenshots/ss0.png)
+![ss 1](https://raw.githubusercontent.com/Karan-Shah-2513/bct-contract-bridger/main/screenshots/ss1.png)
+![ss 2](https://raw.githubusercontent.com/Karan-Shah-2513/bct-contract-bridger/main/screenshots/ss2.png)
+![ss 3](https://raw.githubusercontent.com/Karan-Shah-2513/bct-contract-bridger/main/screenshots/ss3.png)
+![ss 4](https://raw.githubusercontent.com/Karan-Shah-2513/bct-contract-bridger/main/screenshots/ss4.png)
+![ss 5](https://raw.githubusercontent.com/Karan-Shah-2513/bct-contract-bridger/main/screenshots/ss5.png)
+
 ## Contributing
 
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
