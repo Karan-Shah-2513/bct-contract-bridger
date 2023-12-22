@@ -1,4 +1,4 @@
-# Contract Bridger
+# Smart Contract Bridger
 
 ## Description
 
