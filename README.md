@@ -43,10 +43,6 @@ Now, you can access the `contract-bridgers` service at `http://localhost:8080` a
 ![ss 4](https://raw.githubusercontent.com/Karan-Shah-2513/bct-contract-bridger/main/screenshots/ss4.png)
 ![ss 5](https://raw.githubusercontent.com/Karan-Shah-2513/bct-contract-bridger/main/screenshots/ss5.png)
 
-## Contributing
-
-Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
-
 ## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
